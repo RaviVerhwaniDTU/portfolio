@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ravi Verhwani</title>
+	<atom:link href="httpsraviverhwani.tech/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsraviverhwani.tech</link>
+	<description>Research Analyst &#124; Graphic Designer &#124; Web Developer</description>
+	<lastBuildDate>Thu, 20 Jul 2023 09:08:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>httpsraviverhwani.tech/wp-content/uploads/2023/07/cropped-IMG-20230608-WA0145-32x32.jpg</url>
+	<title>Ravi Verhwani</title>
+	<link>httpsraviverhwani.tech</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
